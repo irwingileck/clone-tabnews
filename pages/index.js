@@ -8,9 +8,7 @@ function Home() {
 
   return (
     <div style={estiloContainer}>
-      <h1>
-        Lindeza, vc é uma mulher incrivel, te amo de montão, feliz 3 anos.
-      </h1>
+      <h1>Pagina Inicial.</h1>
     </div>
   );
 }
